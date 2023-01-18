@@ -1,0 +1,323 @@
+body {
+    background-image: linear-gradient(lightsteelblue, skyblue);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#title {
+    background-color: cornflowerblue;
+    border: 5px #000000;
+    border-bottom: solid;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+
+#stabless {
+    color: #000000;
+}
+
+#attribution {
+    color: #000000;
+    font-weight: bold;
+}
+
+.search {
+    margin-left: 2px;
+    border: 2px solid;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #B0B0B0;
+    font-size: 11px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+/* Tab Header Styling */
+
+.header {
+    background-color: #B0B0B0;
+    border: 2px solid;
+    height: 135px;
+}
+
+.headerupper {
+    background-color: #FF4040;
+    border: 2px solid;
+    border-color: #000000;
+    color: #000000;
+}
+
+.headerimg {
+    background-color: #FFFFFF;
+    border: 2px solid;
+}
+
+.namecol {
+    width: 70px;
+    text-align: center;
+}
+
+.typecol {
+    width: 100px;
+    text-align: center;
+}
+
+.slashcol {
+    width: 10px;
+    text-align: center;
+}
+  
+.arrowcol{
+    width: 100px;
+    text-align: center;
+}
+
+.arrow{
+    width: 100px;
+}
+
+/* Coverage Styling */
+.coverageregion{
+    background-color: #B0B0B0;
+    border: 2px solid;
+    height: 135px;
+}
+
+.coveragetable{
+    margin: 0;
+}
+
+.coverage{
+    background-color: #FF4040;
+    border: 2px solid;
+    border-color: #000000;
+    color: #000000;
+    text-align: center;
+}
+
+.coveragetype:hover{
+    font-weight: bold;
+    color:#FFFFFF;
+}
+
+/* Move Table Styling */
+
+.movetablecontainer{
+    vertical-align: top;
+}
+
+.movetable{
+    background-color: #B0B0B0;
+    border: 2px solid;
+}
+
+.moveheader{
+    background-color: #000080;
+    border: 2px solid;
+    border-color: #000000;
+    color: #FFFFFF; 
+}
+
+.movename{
+    width: 100px;
+}
+
+.typecat{
+    width: 65px;
+}
+
+.levelheading{
+    width: 30px;
+}
+
+/* Pokemon Category Classes */
+
+.physical{
+    background:#C92112; 
+    border: 1px solid #82150B;
+    color:#F67A1A;
+    text-align: center;
+    width: 65px;
+}
+
+.special{
+    background:#4F5870; 
+    border: 1px solid #333948;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.status{
+    background:#8C888C;
+    border:1px solid #5b585b;
+    color:#F7F7F7;
+    text-align: center;
+    width: 65px;
+}
+
+/* Pokemon Type Classes */
+
+.normal{
+    background:#A8A878; 
+    border: 1px solid #C6C6A7;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.fire{
+    background:#F08030; 
+    border: 1px solid #9C531F;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.fighting{
+    background:#C03028;
+    border: 1px solid #7D1F1A;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.water{
+    background:#6890F0; 
+    border: 1px solid #445E9C;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.flying{
+    background:#A890F0; 
+    border: 1px solid #6D5E9C;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.grass{
+    background:#78C850; 
+    border: 1px solid #4E8234;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.poison{
+    background:#A040A0; 
+    border: 1px solid #682A68;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.electric{
+    background:#F8D030; 
+    border: 1px solid #A1871F;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.ground{
+    background:#E0C068; 
+    border: 1px solid #927D44;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.psychic{
+    background:#F85888; 
+    border: 1px solid #A13959;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.rock{
+    background:#B8A038; 
+    border: 1px solid #786824;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.ice{
+    background:#98D8D8;
+    border: 1px solid #638D8D;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.bug{
+    background:#A8B820;
+    border: 1px solid #6D7815;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.dragon{
+    background:#7038F8;
+    border: 1px solid #4924A1;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.ghost{
+    background:#705898; 
+    border: 1px solid #493963;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.dark{
+    background:#705848;
+    border: 1px solid #49392F;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.steel{
+    background:#B8B8D0;
+    border: 1px solid #787887;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.fairy{
+    background:#EE99AC;
+    border: 1px solid #9B6470;
+    color:#FFFFFF;
+    text-align: center;
+    width: 65px;
+}
+
+.none{
+    background:#101040;
+    border: 1px solid #101030;
+    color:#808080;
+    text-align: center;
+    width: 65px;
+}
