@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tierlist.css">
+    <link rel="stylesheet" href="types.css">
+    <title>Tierlist Maker</title>
+</head>
+<body>
+    <h1>Move Tierlist</h1>
+    <button onclick="outputCSV()">Download this list!</button>
+    <div id="infobox" class="flex-container">
+        <div id="name">Name</div>
+        <div id="pkmntype">Pkmntype</div>
+        <div id="power">Power</div>
+        <div id="accuracy">Accuracy</div>
+        <div id="pp">PP</div>
+        <div id="description">Description</div>
+    </div>
+    <div id="tiers">
+        <div id="stier" class="flex-container">
+            <div id="sname">S</div>
+            <div id="sbox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="atier" class="flex-container">
+            <div id="aname">A</div>
+            <div id="abox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="btier" class="flex-container">
+            <div id="bname">B</div>
+            <div id="bbox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="ctier" class="flex-container">
+            <div id="cname">C</div>
+            <div id="cbox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="dtier" class="flex-container">
+            <div id="dname">D</div>
+            <div id="dbox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="ftier" class="flex-container">
+            <div id="fname">F</div>
+            <div id="fbox" class="flex-container move-container" onclick="moveToTier(this)"></div>
+        </div>
+        <div id="other" class="flex-container">
+            <div id="oname">..</div>
+            <div id="obox" class="flex-container move-container" onclick="moveToTier(this)">
+            </div>
+        </div>
+    </div>
+    <script src="data.js"></script>
+    <script src="tierlist.js"></script>
+    <script src="initialize.js"></script>  
+</body>
+</html>
