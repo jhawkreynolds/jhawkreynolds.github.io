@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Old Learnset Redirector</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<h1>Old Learnset Redirector</h1>
+<p>A tool to quickly access old Pokemon learnsets.<br></p>
+<script>
+    function redirect(){
+        let search = document.getElementById("search").value;
+        let encoded = encodeURIComponent(search);
+        let url = `https://bulbapedia.bulbagarden.net/wiki/${encoded}_(Pok%C3%A9mon)/Generation_VII_learnset`;
+        let form = document.getElementById("form");
+        form.action = url;
+    }
+</script>
+<form id="form" onsubmit="redirect()">
+    <input type="text" id="search"><br>
+</form>
+<body>

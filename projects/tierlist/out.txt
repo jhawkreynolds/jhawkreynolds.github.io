@@ -1,0 +1,354 @@
+Absorb|Grass|20|100%|20|User recovers 50% of the damage dealt.|O
+Acid|Poison|40|100%|30|10% chance to lower the foe(s) Defense by 1.|O
+Acid Armor|Poison|—|—|40|Raises the user's Defense by 2.|O
+Aerial Ace|Flying|60|—|20|This move does not check accuracy.|O
+Aeroblast|Flying|100|95%|5|High critical hit ratio.|O
+Agility|Psychic|—|—|30|Raises the user's Speed by 2.|O
+Air Cutter|Flying|55|95%|25|High critical hit ratio. Hits adjacent foes.|O
+Amnesia|Psychic|—|—|20|Raises the user's Sp. Def by 2.|O
+Ancient Power|Rock|60|100%|5|10% chance to raise all stats by 1 (not acc/eva).|O
+Arm Thrust|Fighting|15|100%|20|Hits 2-5 times in one turn.|O
+Aromatherapy|Grass|—|—|5|Cures the user's party of all status conditions.|O
+Assist|Normal|—|—|20|Uses a random move known by a team member.|O
+Astonish|Ghost|30|100%|15|30% chance to make the target flinch.|O
+Attract|Normal|—|100%|15|A target of the opposite gender gets infatuated.|O
+Aurora Beam|Ice|65|100%|20|10% chance to lower the target's Attack by 1.|O
+Barrage|Normal|15|85%|20|Hits 2-5 times in one turn.|O
+Barrier|Psychic|—|—|30|Raises the user's Defense by 2.|O
+Baton Pass|Normal|—|—|40|User switches, passing stat changes and more.|O
+Beat Up|Dark|10|100%|10|All healthy allies aid in damaging the target.|O
+Belly Drum|Normal|—|—|10|User loses 50% max HP. Maximizes Attack.|O
+Bide|Normal|—|100%|10|Waits 2 turns; deals double the damage taken.|O
+Bind|Normal|15|75%|20|Traps and damages the target for 2-5 turns.|O
+Bite|Dark|60|100%|25|30% chance to make the target flinch.|O
+Blast Burn|Fire|150|90%|5|User cannot move next turn.|O
+Blaze Kick|Fire|85|90%|10|High critical hit ratio. 10% chance to burn.|O
+Blizzard|Ice|120|70%|5|10% chance to freeze foe(s).|O
+Block|Normal|—|—|5|Prevents the target from switching out.|O
+Body Slam|Normal|85|100%|15|30% chance to paralyze the target.|O
+Bone Club|Ground|65|85%|20|10% chance to make the target flinch.|O
+Bone Rush|Ground|25|80%|10|Hits 2-5 times in one turn.|O
+Bonemerang|Ground|50|90%|10|Hits 2 times in one turn.|O
+Bounce|Flying|85|85%|5|Bounces turn 1. Hits turn 2. 30% paralyze.|O
+Brick Break|Fighting|75|100%|15|Destroys screens, even if the target is immune.|O
+Bubble|Water|20|100%|30|10% chance to lower the foe(s) Speed by 1.|O
+Bubble Beam|Water|65|100%|20|10% chance to lower the target's Speed by 1.|O
+Bulk Up|Fighting|—|—|20|Raises the user's Attack and Defense by 1.|O
+Bullet Seed|Grass|10|100%|30|Hits 2-5 times in one turn.|O
+Calm Mind|Psychic|—|—|20|Raises the user's Sp. Atk and Sp. Def by 1.|O
+Camouflage|Normal|—|—|20|Changes user's type based on terrain. (Normal)|O
+Charge|Electric|—|—|20|The user's Electric attack next turn has 2x power.|O
+Charm|Normal|—|100%|20|Lowers the target's Attack by 2.|O
+Clamp|Water|35|75%|10|Traps and damages the target for 2-5 turns.|O
+Comet Punch|Normal|18|85%|15|Hits 2-5 times in one turn.|O
+Confuse Ray|Ghost|—|100%|10|Confuses the target.|O
+Confusion|Psychic|50|100%|25|10% chance to confuse the target.|O
+Constrict|Normal|10|100%|35|10% chance to lower the target's Speed by 1.|O
+Conversion|Normal|—|—|30|Changes user's type to match a known move.|O
+Conversion 2|Normal|—|—|30|User's type changes to resist last move against it.|O
+Cosmic Power|Psychic|—|—|20|Raises the user's Defense and Sp. Def by 1.|O
+Cotton Spore|Grass|—|85%|40|Lowers the target's Speed by 2.|O
+Counter|Fighting|—|100%|20|If hit by physical attack, returns double damage.|O
+Covet|Normal|40|100%|40|If the user has no item, it steals the target's.|O
+Crabhammer|Water|90|85%|10|High critical hit ratio.|O
+Cross Chop|Fighting|100|80%|5|High critical hit ratio.|O
+Crunch|Dark|80|100%|15|20% chance to lower the target's Sp. Def by 1.|O
+Crush Claw|Normal|75|95%|10|50% chance to lower the target's Defense by 1.|O
+Curse|Normal|—|—|10|Curses if Ghost, else -1 Spe, +1 Atk, +1 Def.|O
+Cut|Normal|50|95%|30|No additional effect.|O
+Defense Curl|Normal|—|—|40|Raises the user's Defense by 1.|O
+Destiny Bond|Ghost|—|—|5|If an opponent knocks out the user, it also faints.|O
+Detect|Fighting|—|—|5|Prevents moves from affecting the user this turn.|O
+Dig|Ground|60|100%|10|Digs underground turn 1, strikes turn 2.|O
+Disable|Normal|—|55%|20|For 2-5 turns, disables the target's last move.|O
+Dive|Water|60|100%|10|Dives underwater turn 1, strikes turn 2.|O
+Dizzy Punch|Normal|70|100%|10|20% chance to confuse the target.|O
+Doom Desire|Steel|120|85%|5|Hits two turns after being used.|O
+Double Kick|Fighting|30|100%|30|Hits 2 times in one turn.|O
+Double Slap|Normal|15|85%|10|Hits 2-5 times in one turn.|O
+Double Team|Normal|—|—|15|Raises the user's evasiveness by 1.|O
+Double-Edge|Normal|120|100%|15|Has 1/3 recoil.|O
+Dragon Breath|Dragon|60|100%|20|30% chance to paralyze the target.|O
+Dragon Claw|Dragon|80|100%|15|No additional effect.|O
+Dragon Dance|Dragon|—|—|20|Raises the user's Attack and Speed by 1.|O
+Dragon Rage|Dragon|—|100%|10|Deals 40 HP of damage to the target.|O
+Dream Eater|Psychic|100|100%|15|User gains 1/2 HP inflicted. Sleeping target only.|O
+Drill Peck|Flying|80|100%|20|No additional effect.|O
+Dynamic Punch|Fighting|100|50%|5|100% chance to confuse the target.|O
+Earthquake|Ground|100|100%|10|Hits adjacent Pokemon. Power doubles on Dig.|O
+Egg Bomb|Normal|100|75%|10|No additional effect.|O
+Ember|Fire|40|100%|25|10% chance to burn the target.|O
+Encore|Normal|—|100%|5|The target repeats its last move for 3-6 turns.|O
+Endeavor|Normal|—|100%|5|Lowers the target's HP to the user's HP.|O
+Endure|Normal|—|—|10|User survives attacks this turn with at least 1 HP.|O
+Eruption|Fire|150|100%|5|Less power as user's HP decreases. Hits foe(s).|O
+Explosion|Normal|250|100%|5|Target's Def halved during damage. User faints.|O
+Extrasensory|Psychic|80|100%|30|10% chance to make the target flinch.|O
+Extreme Speed|Normal|80|100%|5|Usually goes first.|O
+Facade|Normal|70|100%|20|Power doubles if user is burn/poison/paralyzed.|O
+Fake Out|Normal|40|100%|10|Hits first. First turn out only. 100% flinch chance.|O
+Fake Tears|Dark|—|100%|20|Lowers the target's Sp. Def by 2.|O
+False Swipe|Normal|40|100%|40|Always leaves the target with at least 1 HP.|O
+Feather Dance|Flying|—|100%|15|Lowers the target's Attack by 2.|O
+Feint Attack|Dark|60|—|20|This move does not check accuracy.|O
+Fire Blast|Fire|120|85%|5|10% chance to burn the target.|O
+Fire Punch|Fire|75|100%|15|10% chance to burn the target.|O
+Fire Spin|Fire|15|70%|15|Traps and damages the target for 2-5 turns.|O
+Fissure|Ground|—|30%|5|OHKOs the target. Fails if user is a lower level.|O
+Flail|Normal|—|100%|15|More power the less HP the user has left.|O
+Flame Wheel|Fire|60|100%|25|10% chance to burn the target. Thaws user.|O
+Flamethrower|Fire|95|100%|15|10% chance to burn the target.|O
+Flash|Normal|—|70%|20|Lowers the target's accuracy by 1.|O
+Flatter|Dark|—|100%|15|Raises the target's Sp. Atk by 1 and confuses it.|O
+Fly|Flying|70|95%|15|Flies up on first turn, then strikes the next turn.|O
+Focus Energy|Normal|—|—|30|Raises the user's critical hit ratio by 2.|O
+Focus Punch|Fighting|150|100%|20|Fails if the user takes damage before it hits.|O
+Follow Me|Normal|—|—|20|The foes' moves target the user on the turn used.|O
+Foresight|Normal|—|100%|40|Fighting, Normal hit Ghost. Evasiveness ignored.|O
+Frenzy Plant|Grass|150|90%|5|User cannot move next turn.|O
+Frustration|Normal|—|100%|20|Max 102 power at minimum Happiness.|O
+Fury Attack|Normal|15|85%|20|Hits 2-5 times in one turn.|O
+Fury Cutter|Bug|10|95%|20|Power doubles with each hit, up to 160.|O
+Fury Swipes|Normal|18|80%|15|Hits 2-5 times in one turn.|O
+Future Sight|Psychic|80|90%|15|Hits two turns after being used.|O
+Giga Drain|Grass|60|100%|5|User recovers 50% of the damage dealt.|O
+Glare|Normal|—|75%|30|Paralyzes the target.|O
+Grass Whistle|Grass|—|55%|15|Causes the target to fall asleep.|O
+Growl|Normal|—|100%|40|Lowers the foe(s) Attack by 1.|O
+Growth|Normal|—|—|40|Raises the user's Sp. Atk by 1.|O
+Grudge|Ghost|—|—|5|If the user faints, the attack used loses all its PP.|O
+Guillotine|Normal|—|30%|5|OHKOs the target. Fails if user is a lower level.|O
+Gust|Flying|40|100%|35|Power doubles during Bounce and Fly.|O
+Hail|Ice|—|—|10|For 5 turns, hail crashes down.|O
+Harden|Normal|—|—|30|Raises the user's Defense by 1.|O
+Haze|Ice|—|—|30|Eliminates all stat changes.|O
+Headbutt|Normal|70|100%|15|30% chance to make the target flinch.|O
+Heal Bell|Normal|—|—|5|Cures the user's party of all status conditions.|O
+Heat Wave|Fire|100|90%|10|10% chance to burn the foe(s).|O
+Helping Hand|Normal|—|—|20|One adjacent ally's move power is 1.5x this turn.|O
+Hidden Power|Normal|—|100%|15|Varies in power and type based on the user's IVs.|O
+High Jump Kick|Fighting|85|90%|20|If miss, user takes 1/2 damage it would've dealt.|O
+Horn Attack|Normal|65|100%|25|No additional effect.|O
+Horn Drill|Normal|—|30%|5|OHKOs the target. Fails if user is a lower level.|O
+Howl|Normal|—|—|40|Raises the user's Attack by 1.|O
+Hydro Cannon|Water|150|90%|5|User cannot move next turn.|O
+Hydro Pump|Water|120|80%|5|No additional effect.|O
+Hyper Beam|Normal|150|90%|5|User cannot move next turn.|O
+Hyper Fang|Normal|80|90%|15|10% chance to make the target flinch.|O
+Hyper Voice|Normal|90|100%|10|No additional effect. Hits adjacent foes.|O
+Hypnosis|Psychic|—|60%|20|Causes the target to fall asleep.|O
+Ice Ball|Ice|30|90%|20|Power doubles with each hit. Repeats for 5 turns.|O
+Ice Beam|Ice|95|100%|10|10% chance to freeze the target.|O
+Ice Punch|Ice|75|100%|15|10% chance to freeze the target.|O
+Icicle Spear|Ice|10|100%|30|Hits 2-5 times in one turn.|O
+Icy Wind|Ice|55|95%|15|100% chance to lower the foe(s) Speed by 1.|O
+Imprison|Psychic|—|—|10|No foe can use any move known by the user.|O
+Ingrain|Grass|—|—|20|User recovers 1/16 max HP per turn. Traps user.|O
+Iron Defense|Steel|—|—|15|Raises the user's Defense by 2.|O
+Iron Tail|Steel|100|75%|15|30% chance to lower the target's Defense by 1.|O
+Jump Kick|Fighting|70|95%|25|If miss, user takes 1/2 damage it would've dealt.|O
+Karate Chop|Fighting|50|100%|25|High critical hit ratio.|O
+Kinesis|Psychic|—|80%|15|Lowers the target's accuracy by 1.|O
+Knock Off|Dark|20|100%|20|Target's item is lost and it cannot obtain another.|O
+Leaf Blade|Grass|70|100%|15|High critical hit ratio.|O
+Leech Life|Bug|20|100%|15|User recovers 50% of the damage dealt.|O
+Leech Seed|Grass|—|90%|10|1/8 of target's HP is restored to user every turn.|O
+Leer|Normal|—|100%|30|Lowers the foe(s) Defense by 1.|O
+Lick|Ghost|20|100%|30|30% chance to paralyze the target.|O
+Light Screen|Psychic|—|—|30|For 5 turns, special damage to allies is halved.|O
+Lock-On|Normal|—|100%|5|User's next move will not miss the target.|O
+Lovely Kiss|Normal|—|75%|10|Causes the target to fall asleep.|O
+Low Kick|Fighting|—|100%|20|More power the heavier the target.|O
+Luster Purge|Psychic|70|100%|5|50% chance to lower the target's Sp. Def by 1.|O
+Mach Punch|Fighting|40|100%|30|Usually goes first.|O
+Magic Coat|Psychic|—|—|15|Bounces back certain non-damaging moves.|O
+Magical Leaf|Grass|60|—|20|This move does not check accuracy.|O
+Magnitude|Ground|—|100%|30|Hits adjacent Pokemon. Power varies; 2x on Dig.|O
+Mean Look|Normal|—|—|5|Prevents the target from switching out.|O
+Meditate|Psychic|—|—|40|Raises the user's Attack by 1.|O
+Mega Drain|Grass|40|100%|10|User recovers 50% of the damage dealt.|O
+Mega Kick|Normal|120|75%|5|No additional effect.|O
+Mega Punch|Normal|80|85%|20|No additional effect.|O
+Megahorn|Bug|120|85%|10|No additional effect.|O
+Memento|Dark|—|—|10|Lowers target's Attack, Sp. Atk by 2. User faints.|O
+Metal Claw|Steel|50|95%|35|10% chance to raise the user's Attack by 1.|O
+Metal Sound|Steel|—|85%|40|Lowers the target's Sp. Def by 2.|O
+Meteor Mash|Steel|100|85%|10|20% chance to raise the user's Attack by 1.|O
+Metronome|Normal|—|—|10|Picks a random move.|O
+Milk Drink|Normal|—|—|10|Heals the user by 50% of its max HP.|O
+Mimic|Normal|—|—|10|The last move the target used replaces this one.|O
+Mind Reader|Normal|—|100%|5|User's next move will not miss the target.|O
+Minimize|Normal|—|—|20|Raises the user's evasiveness by 1.|O
+Mirror Coat|Psychic|—|100%|20|If hit by special attack, returns double damage.|O
+Mirror Move|Flying|—|—|20|User uses the target's last used move against it.|O
+Mist|Ice|—|—|30|For 5 turns, protects user's party from stat drops.|O
+Mist Ball|Psychic|70|100%|5|50% chance to lower the target's Sp. Atk by 1.|O
+Moonlight|Normal|—|—|5|Heals the user by a weather-dependent amount.|O
+Morning Sun|Normal|—|—|5|Heals the user by a weather-dependent amount.|O
+Mud Shot|Ground|55|95%|15|100% chance to lower the target's Speed by 1.|O
+Mud Sport|Ground|—|—|15|Weakens Electric-type attacks to 1/2 their power.|O
+Mud-Slap|Ground|20|100%|10|100% chance to lower the target's accuracy by 1.|O
+Muddy Water|Water|95|85%|10|30% chance to lower the foe(s) accuracy by 1.|O
+Nature Power|Normal|—|95%|20|Attack changes based on terrain. (Swift)|O
+Needle Arm|Grass|60|100%|15|30% chance to make the target flinch.|O
+Night Shade|Ghost|—|100%|15|Does damage equal to the user's level.|O
+Nightmare|Ghost|—|—|15|A sleeping target is hurt by 1/4 max HP per turn.|O
+Octazooka|Water|65|85%|10|50% chance to lower the target's accuracy by 1.|O
+Odor Sleuth|Normal|—|100%|40|Fighting, Normal hit Ghost. Evasiveness ignored.|O
+Outrage|Dragon|90|100%|15|Lasts 2-3 turns. Confuses the user afterwards.|O
+Overheat|Fire|140|90%|5|Lowers the user's Sp. Atk by 2.|O
+Pain Split|Normal|—|—|20|Shares HP of user and target equally.|O
+Pay Day|Normal|40|100%|20|Scatters coins.|O
+Peck|Flying|35|100%|35|No additional effect.|O
+Perish Song|Normal|—|—|5|All active Pokemon will faint in 3 turns.|O
+Petal Dance|Grass|70|100%|20|Lasts 2-3 turns. Confuses the user afterwards.|O
+Pin Missile|Bug|14|85%|20|Hits 2-5 times in one turn.|O
+Poison Fang|Poison|50|100%|15|30% chance to badly poison the target.|O
+Poison Gas|Poison|—|55%|40|Poisons the foe(s).|O
+Poison Powder|Poison|—|75%|35|Poisons the target.|O
+Poison Sting|Poison|15|100%|35|30% chance to poison the target.|O
+Poison Tail|Poison|50|100%|25|High critical hit ratio. 10% chance to poison.|O
+Pound|Normal|40|100%|35|No additional effect.|O
+Powder Snow|Ice|40|100%|25|10% chance to freeze the foe(s).|O
+Present|Normal|—|90%|15|40, 80, 120 power, or heals target 1/4 max HP.|O
+Protect|Normal|—|—|10|Prevents moves from affecting the user this turn.|O
+Psybeam|Psychic|65|100%|20|10% chance to confuse the target.|O
+Psych Up|Normal|—|—|10|Copies the target's current stat stages.|O
+Psychic|Psychic|90|100%|10|10% chance to lower the target's Sp. Def by 1.|O
+Psycho Boost|Psychic|140|90%|5|Lowers the user's Sp. Atk by 2.|O
+Psywave|Psychic|—|80%|15|Random damage equal to 0.5x-1.5x user's level.|O
+Pursuit|Dark|40|100%|20|Power doubles if the targeted foe is switching out.|O
+Quick Attack|Normal|40|100%|30|Usually goes first.|O
+Rage|Normal|20|100%|20|Raises the user's Attack by 1 if hit during use.|O
+Rain Dance|Water|—|—|5|For 5 turns, heavy rain powers Water moves.|O
+Rapid Spin|Normal|20|100%|40|Frees user from hazards, binding, Leech Seed.|O
+Razor Leaf|Grass|55|95%|25|High critical hit ratio. Hits adjacent foes.|O
+Razor Wind|Normal|80|100%|10|Charges, then hits foe(s) turn 2.|O
+Recover|Normal|—|—|20|Heals the user by 50% of its max HP.|O
+Recycle|Normal|—|—|10|Restores the item the user last used.|O
+Reflect|Psychic|—|—|20|For 5 turns, physical damage to allies is halved.|O
+Refresh|Normal|—|—|20|User cures its burn, poison, or paralysis.|O
+Rest|Psychic|—|—|10|User sleeps 2 turns and restores HP and status.|O
+Return|Normal|—|100%|20|Max 102 power at maximum Happiness.|O
+Revenge|Fighting|60|100%|10|Damage doubles if user is hit by the target.|O
+Reversal|Fighting|—|100%|15|More power the less HP the user has left.|O
+Roar|Normal|—|100%|20|Forces the target to switch to a random ally.|O
+Rock Blast|Rock|25|80%|10|Hits 2-5 times in one turn.|O
+Rock Slide|Rock|75|90%|10|30% chance to make the foe(s) flinch.|O
+Rock Smash|Fighting|20|100%|15|50% chance to lower the target's Defense by 1.|O
+Rock Throw|Rock|50|90%|15|No additional effect.|O
+Rock Tomb|Rock|50|80%|10|100% chance to lower the target's Speed by 1.|O
+Role Play|Psychic|—|—|10|User replaces its Ability with the target's.|O
+Rolling Kick|Fighting|60|85%|15|30% chance to make the target flinch.|O
+Rollout|Rock|30|90%|20|Power doubles with each hit. Repeats for 5 turns.|O
+Sacred Fire|Fire|100|95%|5|50% chance to burn the target. Thaws user.|O
+Safeguard|Normal|—|—|25|For 5 turns, protects user's party from status.|O
+Sand Attack|Ground|—|100%|15|Lowers the target's accuracy by 1.|O
+Sand Tomb|Ground|15|70%|15|Traps and damages the target for 2-5 turns.|O
+Sandstorm|Rock|—|—|10|For 5 turns, a sandstorm rages.|O
+Scary Face|Normal|—|90%|10|Lowers the target's Speed by 2.|O
+Scratch|Normal|40|100%|35|No additional effect.|O
+Screech|Normal|—|85%|40|Lowers the target's Defense by 2.|O
+Secret Power|Normal|70|100%|20|Effect varies with terrain. (30% paralysis chance)|O
+Seismic Toss|Fighting|—|100%|20|Does damage equal to the user's level.|O
+Self-Destruct|Normal|200|100%|5|Target's Def halved during damage. User faints.|O
+Shadow Ball|Ghost|80|100%|15|20% chance to lower the target's Sp. Def by 1.|O
+Shadow Punch|Ghost|60|—|20|This move does not check accuracy.|O
+Sharpen|Normal|—|—|30|Raises the user's Attack by 1.|O
+Sheer Cold|Ice|—|30%|5|OHKOs the target. Fails if user is a lower level.|O
+Shock Wave|Electric|60|—|20|This move does not check accuracy.|O
+Signal Beam|Bug|75|100%|15|10% chance to confuse the target.|O
+Silver Wind|Bug|60|100%|5|10% chance to raise all stats by 1 (not acc/eva).|O
+Sing|Normal|—|55%|15|Causes the target to fall asleep.|O
+Sketch|Normal|—|—|1|Permanently copies the last move target used.|O
+Skill Swap|Psychic|—|—|10|The user and the target trade Abilities.|O
+Skull Bash|Normal|100|100%|15|Raises user's Defense by 1 on turn 1. Hits turn 2.|O
+Sky Attack|Flying|140|90%|5|Charges, then hits turn 2. 30% flinch. High crit.|O
+Sky Uppercut|Fighting|85|90%|15|Can hit Pokemon using Bounce or Fly.|O
+Slack Off|Normal|—|—|10|Heals the user by 50% of its max HP.|O
+Slam|Normal|80|75%|20|No additional effect.|O
+Slash|Normal|70|100%|20|High critical hit ratio.|O
+Sleep Powder|Grass|—|75%|15|Causes the target to fall asleep.|O
+Sleep Talk|Normal|—|—|10|User must be asleep. Uses another known move.|O
+Sludge|Poison|65|100%|20|30% chance to poison the target.|O
+Sludge Bomb|Poison|90|100%|10|30% chance to poison the target.|O
+Smelling Salts|Normal|60|100%|10|Damage doubles if target is paralyzed; cures it.|O
+Smog|Poison|20|70%|20|40% chance to poison the target.|O
+Smokescreen|Normal|—|100%|20|Lowers the target's accuracy by 1.|O
+Snatch|Dark|—|—|10|User steals certain support moves to use itself.|O
+Snore|Normal|40|100%|15|User must be asleep. 30% chance to flinch target.|O
+Soft-Boiled|Normal|—|—|10|Heals the user by 50% of its max HP.|O
+Solar Beam|Grass|120|100%|10|Charges turn 1. Hits turn 2. No charge in sunlight.|O
+Sonic Boom|Normal|—|90%|20|Always does 20 HP of damage.|O
+Spark|Electric|65|100%|20|30% chance to paralyze the target.|O
+Spider Web|Bug|—|—|10|Prevents the target from switching out.|O
+Spike Cannon|Normal|20|100%|15|Hits 2-5 times in one turn.|O
+Spikes|Ground|—|—|20|Hurts grounded foes on switch-in. Max 3 layers.|O
+Spit Up|Normal|—|100%|10|More power with more uses of Stockpile.|O
+Spite|Ghost|—|100%|10|Lowers the PP of the target's last move by 2-5.|O
+Splash|Normal|—|—|40|No competitive use.|O
+Spore|Grass|—|100%|15|Causes the target to fall asleep.|O
+Steel Wing|Steel|70|90%|25|10% chance to raise the user's Defense by 1.|O
+Stockpile|Normal|—|—|10|Raises user's Stockpile count by 1. Max 3 uses.|O
+Stomp|Normal|65|100%|20|30% chance to make the target flinch.|O
+Strength|Normal|80|100%|15|No additional effect.|O
+String Shot|Bug|—|95%|40|Lowers the foe(s) Speed by 1.|O
+Struggle|Normal|50|100%|1|User loses 1/4 the HP lost by the target.|O
+Stun Spore|Grass|—|75%|30|Paralyzes the target.|O
+Submission|Fighting|80|80%|25|Has 1/4 recoil.|O
+Substitute|Normal|—|—|10|User takes 1/4 its max HP to put in a substitute.|O
+Sunny Day|Fire|—|—|5|For 5 turns, intense sunlight powers Fire moves.|O
+Super Fang|Normal|—|90%|10|Does damage equal to 1/2 target's current HP.|O
+Superpower|Fighting|120|100%|5|Lowers the user's Attack and Defense by 1.|O
+Supersonic|Normal|—|55%|20|Causes the target to become confused.|O
+Surf|Water|95|100%|15|Hits foes. Power doubles against Dive.|O
+Swagger|Normal|—|90%|15|Raises the target's Attack by 2 and confuses it.|O
+Swallow|Normal|—|—|10|Heals the user based on uses of Stockpile.|O
+Sweet Kiss|Normal|—|75%|10|Causes the target to become confused.|O
+Sweet Scent|Normal|—|100%|20|Lowers the foe(s) evasiveness by 1.|O
+Swift|Normal|60|—|20|This move does not check accuracy. Hits foes.|O
+Swords Dance|Normal|—|—|30|Raises the user's Attack by 2.|O
+Synthesis|Grass|—|—|5|Heals the user by a weather-dependent amount.|O
+Tackle|Normal|35|95%|35|No additional effect.|O
+Tail Glow|Bug|—|—|20|Raises the user's Sp. Atk by 2.|O
+Tail Whip|Normal|—|100%|30|Lowers the foe(s) Defense by 1.|O
+Take Down|Normal|90|85%|20|Has 1/4 recoil.|O
+Taunt|Dark|—|100%|20|For 2 turns, the target can't use status moves.|O
+Teeter Dance|Normal|—|100%|20|Confuses adjacent Pokemon.|O
+Teleport|Psychic|—|—|20|Fails when used.|O
+Thief|Dark|40|100%|10|If the user has no item, it steals the target's.|O
+Thrash|Normal|90|100%|20|Lasts 2-3 turns. Confuses the user afterwards.|O
+Thunder|Electric|120|70%|10|30% chance to paralyze. Can't miss in rain.|O
+Thunder Punch|Electric|75|100%|15|10% chance to paralyze the target.|O
+Thunder Shock|Electric|40|100%|30|10% chance to paralyze the target.|O
+Thunder Wave|Electric|—|100%|20|Paralyzes the target.|O
+Thunderbolt|Electric|95|100%|15|10% chance to paralyze the target.|O
+Tickle|Normal|—|100%|20|Lowers the target's Attack and Defense by 1.|O
+Torment|Dark|—|100%|15|Target can't select the same move twice in a row.|O
+Toxic|Poison|—|85%|10|Badly poisons the target.|O
+Transform|Normal|—|—|10|Copies target's stats, moves, types, and Ability.|O
+Tri Attack|Normal|80|100%|10|20% chance to paralyze or burn or freeze target.|O
+Trick|Psychic|—|100%|10|User switches its held item with the target's.|O
+Triple Kick|Fighting|10|90%|10|Hits 3 times. Each hit can miss, but power rises.|O
+Twineedle|Bug|25|100%|20|Hits 2 times. Each hit has 20% chance to poison.|O
+Twister|Dragon|40|100%|20|20% chance to make the foe(s) flinch.|O
+Uproar|Normal|50|100%|10|Lasts 2-5 turns. Active Pokemon cannot sleep.|O
+Vice Grip|Normal|55|100%|30|No additional effect.|O
+Vine Whip|Grass|35|100%|10|No additional effect.|O
+Vital Throw|Fighting|70|—|10|This move does not check accuracy. Goes last.|O
+Volt Tackle|Electric|120|100%|15|Has 1/3 recoil.|O
+Water Gun|Water|40|100%|25|No additional effect.|O
+Water Pulse|Water|60|100%|20|20% chance to confuse the target.|O
+Water Sport|Water|—|—|15|Weakens Fire-type attacks to 1/2 their power.|O
+Water Spout|Water|150|100%|5|Less power as user's HP decreases. Hits foe(s).|O
+Waterfall|Water|80|100%|15|No additional effect.|O
+Weather Ball|Normal|50|100%|10|Damage doubles and type varies during weather.|O
+Whirlpool|Water|15|70%|15|Traps and damages the target for 2-5 turns.|O
+Whirlwind|Normal|—|100%|20|Forces the target to switch to a random ally.|O
+Will-O-Wisp|Fire|—|75%|15|Burns the target.|O
+Wing Attack|Flying|60|100%|35|No additional effect.|O
+Wish|Normal|—|—|10|Next turn, heals 50% of the recipient's max HP.|O
+Withdraw|Water|—|—|40|Raises the user's Defense by 1.|O
+Wrap|Normal|15|85%|20|Traps and damages the target for 2-5 turns.|O
+Yawn|Normal|—|—|10|Puts the target to sleep after 1 turn.|O
+Zap Cannon|Electric|100|50%|5|100% chance to paralyze the target.|O
